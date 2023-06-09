@@ -14,13 +14,13 @@ To use this API, you need to have the following software installed on your machi
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/task-manager-api.git
+git clone https://github.com/alpha951/task-manager-api.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd TASK MANAGER
+cd task-manager-api
 ```
 
 3. Install the dependencies:
