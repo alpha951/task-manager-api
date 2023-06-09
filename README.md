@@ -1,6 +1,6 @@
 # Task Manager API - Node.js and MongoDB
 
-This is a Task Manager API built using Node.js and MongoDB. It provides CRUD (Create, Read, Update, Delete) operations for managing tasks. The API allows you to create, retrieve, update, and delete tasks, as well as perform additional operations such as filtering, sorting, and pagination.
+This is a Task Manager API built using Node.js and MongoDB. It provides CRUD (Create, Read, Update, Delete) operations for managing tasks. The API allows you to create, retrieve, update, and delete tasks.
 
 ## Prerequisites
 
